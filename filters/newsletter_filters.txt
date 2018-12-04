@@ -462,7 +462,6 @@ rawstory.com##.sidebar-email-signup-container
 realsimple.com##.newsletter-callout
 realsimple.com##.subscribe-callout
 redbubble.com###email-slide-up
-reddit.com##.newsletter-container
 redstate.com##.newsletter-sign-up
 refinery29.com##.email-acquisition
 revealnews.org##.newsletter

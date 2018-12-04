@@ -844,8 +844,6 @@
 ##.fa-pinterest
 ##.fa-pinterest-p
 ##.fa-pinterest-square
-##.fa-reddit
-##.fa-reddit-square
 ##.fa-share
 ##.fa-soundcloud
 ##.fa-soundcloud-square

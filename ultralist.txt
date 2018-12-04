@@ -404,7 +404,7 @@ aliexpress.com##.float-button-wrapper
 aliexpress.com##.ms-downloadbar
 aliexpress.com##.ui-fixed-panel
 aliexpress.com##.ui-switchable-nav.ui-tab-nav:style(position: absolute !important;)
-aliexpress.com, androidcentral.com, boston25news.com, bugzilla.mozilla.org, burpee.com, claremont.org, cryptoslate.com, dazeddigital.com, ericksonliving.com, fox13memphis.com, github.io, hrw.org, lamag.com, mobile.wnd.com, nationalreview.com, nyclu.org, oilandgasinvestor.com, reactos.org, reddit.com, ritzpix.com, samsung.com, similarsites.com, telesurtv.net, terrawest.com, theweek.com, trustedreviews.com, ubs.com, userstyles.org, verily.com, wsbtv.com, wsvn.com###header:style(position: relative !important;)
+aliexpress.com, androidcentral.com, boston25news.com, bugzilla.mozilla.org, burpee.com, claremont.org, cryptoslate.com, dazeddigital.com, ericksonliving.com, fox13memphis.com, github.io, hrw.org, lamag.com, mobile.wnd.com, nationalreview.com, nyclu.org, oilandgasinvestor.com, reactos.org, ritzpix.com, samsung.com, similarsites.com, telesurtv.net, terrawest.com, theweek.com, trustedreviews.com, ubs.com, userstyles.org, verily.com, wsbtv.com, wsvn.com###header:style(position: relative !important;)
 aljazeera.com###Article-Top-Toolbar
 aljazeera.com###article-main-header:style(position: relative !important; display: block !important; opacity: 1 !important;)
 aljazeera.com###site-header:style(position: relative !important; top: 0 !important;)
@@ -5193,7 +5193,6 @@ m.imgur.com##.headroom--scrolled.headroom--pinned.headroom:style(position: relat
 m.independent.ie##.root-a > header:style(position: relative !important; top: 0 !important;)
 m.medicalxpress.com##.slideup.ui-footer-fixed.ui-bar-c.ui-footer
 m.phys.org##.slideup.ui-footer-fixed.ui-bar-c.ui-footer.visibilityNone
-m.reddit.com##.TopNav
 m.shop.nordstrom.com##.android-app-banner
 m.soundcloud.com###content:style(padding-top: 0 !important;)
 m.tmz.com##.ui-bar-inherit.ui-header.header-mini
@@ -6646,8 +6645,6 @@ okayplayer.com##.affix.site-header:style(position: relative !important; top: 0 !
 okayplayer.com##.page-meta-links-container
 okmeter.io##.js-metabar:style(position: absolute !important;)
 okta.com##.is-fixed.Header:style(position: absolute !important;)
-old.reddit.com##.tabmenu
-old.reddit.com##ol:style(position: static !important;)
 olympic.org###nav:style(position: absolute !important;)
 omaha.com###main-body-container:style(margin-top: 0 !important;)
 omaha.com###site-navbar-container:style(position: relative !important; top: 0 !important;)
@@ -7453,43 +7450,6 @@ redbull.com##.nav-wrapper:style(position: relative !important; top: 0 !important
 redbull.com##header:style(position: relative !important; top: 0 !important;)
 redbullmusicacademy.com##.main-nav:style(position: relative !important;)
 redbullracing.com##header:style(position: absolute !important; top: 0 !important;)
-reddit.com###hamburgers:style(position: absolute !important; border-bottom-color: rgba(55,60,63,.2) !important; border-bottom-style: solid !important; border-bottom-width: 1px !important;)
-reddit.com###header-bottom-right:style(position: absolute !important;)
-reddit.com###jumpToContent
-reddit.com###sr-header-area:style(position: relative !important; width: 100% !important;)
-reddit.com###uapp-banner
-reddit.com##+js(set-constant.js,isPinned,true)
-reddit.com##.EsNOq.s18iqatn-2:style(margin-top: 0 !important;)
-reddit.com##.KglWz:style(position: relative !important;)
-reddit.com##.NavFrame > div:nth-of-type(2) > .TopNav > .TopButton
-reddit.com##.NavFrame__below-top-nav:style(padding-top: 0 !important;)
-reddit.com##.SmartBanner
-reddit.com##.TopNav:style(position: relative !important;)
-reddit.com##.bNRQFw:style(margin-top: 0 !important;)
-reddit.com##.commentsignupbar.infobar
-reddit.com##.dfp-ad-container
-reddit.com##.dgKnDF.s1gybndk-4.fWdlEy.ft1r9n-4:style(position: relative !important;)
-reddit.com##.ejLXgY.s1rdnkxq-4:style(margin-top: 20px !important;)
-reddit.com##.fWdlEy:style(position: relative !important;)
-reddit.com##.fixed.active.read-next
-reddit.com##.gFtNkX.s1x9jy1z-0
-reddit.com##.gVpNUy.s9xltci-0
-reddit.com##.gVypys:style(position: relative !important;)
-reddit.com##.gZyFXj:style(margin-top: 0 !important;)
-reddit.com##.ihPwni.l831nu-1:style(position: relative !important;)
-reddit.com##.inaQGx.ft1r9n-2:style(position: relative !important;)
-reddit.com##.isJDXQ:style(position: absolute !important;)
-reddit.com##.listingsignupbar.infobar
-reddit.com##.mpkDK:style(margin-top: 0 !important;)
-reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
-reddit.com##.res-floater-belowNavbar:style(position: absolute !important;)
-reddit.com##.res-show-link
-reddit.com##.s1h3x34a-1
-reddit.com##.zh2mq5-2
-reddit.com##body:before:style(position: relative !important; height: 0 !important;)
-reddit.com##header:style(position: relative !important;)
-redditgifts.com##.js-header-main.header-main:style(position: absolute !important;)
-redditprofile.com##.navbar:style(position: absolute !important; box-shadow: none !important; transition: none !important; padding; 20px 0 17px !important;)
 redfin.com##.header-main:style(position: absolute !important;)
 redfin.com##.header-postbar
 redflagnews.com###headerAnnouncementWrapper:style(position: relative !important; top: 0 !important;)

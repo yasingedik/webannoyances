@@ -803,19 +803,6 @@ reason.com##.preloaded_lightbox
 recorder.com###ta_pagesLeftPopup
 redalertpolitics.com##.dy-modal-container
 redalertpolitics.com##.signup-trigger
-reddit.com##.DualPartInterstitialFooter
-reddit.com##.DualPartInterstitial__common
-reddit.com##.DualPartInterstitial__content
-reddit.com##.TransparentOverlay
-reddit.com##.TransparentOverlay__overlay
-reddit.com##.XPromoListingClickModal
-reddit.com##.esxAEQ.pqvesn-2
-reddit.com##.mobile-web-redirect-bar
-reddit.com##.seo-comments
-reddit.com##.seo-comments-recommendations
-reddit.com##.splash-design.splash_wrapper
-reddit.com##.welcome
-reddit.com##body:style(overflow-x: hidden !important; overflow-y: scroll !important;)
 redfin.com###RegistrationLightbox
 redfin.com###RegistrationLightbox_underlay
 redstate.com##.preloaded_lightbox
