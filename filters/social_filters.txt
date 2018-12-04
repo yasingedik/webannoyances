@@ -1001,7 +1001,6 @@ psychiatrictimes.com##.region-footer-sticky-inner.region-inner
 psychologytoday.com###pt-social-media
 psychologytoday.com##.pt-social-media-bottom
 publicintegrity.org##.email
-publicintegrity.org##.reddit
 publicintegrity.org##.scroll_box
 pulitzercenter.org##.utility-share
 punchdrink.com##.nav-main__share
@@ -1051,7 +1050,6 @@ realcleardefense.com###facebox_overlay
 realfarmacy.com##.sharing-options
 recordedfuture.com###text-4
 redbullracing.com##.global-social
-redditblog.com##.footer-share
 redfin.com###sideBarContent
 redhat.com##.rh-pull-content-aside > .rh-group--layout > .rh-group-body > div.rh-social-icon--component
 redstate.com##.btn-block.btn-lg.btn-default.btn
